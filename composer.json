@@ -1,12 +1,13 @@
 {
-    "name": "guspio/monolog-datadog",
+    "name": "helissonms/monolog-datadog",
     "description": "Monolog Handler for Datadog Logs",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/helissonms/monolog-datadog",
     "authors": [
         {
-            "name": "Gusp",
-            "email": "contact@gusp.io"
+            "name": "Hélisson M.",
+            "email": "helisson.ms@gmail.com"
         }
     ],
     "require": {
