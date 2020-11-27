@@ -28,7 +28,7 @@ class DatadogHandler extends AbstractProcessingHandler
      *
      * @var string
      */
-    protected const DATADOG_LOG_HOST = 'https://http-intake.logs.datadoghq.com';
+    protected const DATADOG_LOG_HOST = 'https://http-intake.logs.datadoghq.eu';
 
     /**
      * Datadog Api Key access

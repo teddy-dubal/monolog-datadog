@@ -1,9 +1,9 @@
 {
-    "name": "helissonms/monolog-datadog",
+    "name": "teddy-dubal/monolog-datadog",
     "description": "Monolog Handler for Datadog Logs",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/helissonms/monolog-datadog",
+    "homepage": "https://github.com/teddy-dubal/monolog-datadog",
     "authors": [
         {
             "name": "Hélisson M.",
